@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-<a href="http://www.amitmerchant.com/electron-markdownify">
+<a href="https://github.com/phonsing-Hub">
 <img src="https://github.com/phonsing-Hub/Images/blob/main/phonsing_logo.png" alt="Markdownify" height="auto" width="200" style="border-radius:50%"></a>
   <br>
-  p.phonsing
+  p.phonsing_
   <br>
 </h1>
 
